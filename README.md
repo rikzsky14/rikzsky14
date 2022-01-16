@@ -1,4 +1,4 @@
-Aloha!, I'm Rikhil
+Aloha! I'm Rikhil Konala
 
 - 🔭 I’m currently working on ... Python  
 - 🌱 I’m currently learning ... Java
